@@ -1,0 +1,37 @@
+[
+    {
+        "question": "How do I cancel?",
+        "answer": "To cancel, members must contact the AI agent to submit a cancellation request, with a 30-day notice period applying from the date of contact — during which full facility access continues. Memberships have a minimum 12-month commitment, and cancelling before this term is complete may incur an early cancellation fee ranging from $25 to $325 depending on membership type and how far into the contract the member is. After the 12-month term, no cancellation fee applies but the 30-day notice period still applies.",
+        "source": "https://fitnesspassport.my.site.com/faq/s/article/How-do-I-cancel"
+    },
+    {
+        "question": "How can I suspend or pause my membership?",
+        "answer": "Members can suspend their membership for a minimum of 2 weeks and up to 2 months per calendar year without documentation by logging in at fitnesspassport.com.au/login and selecting \"Suspend Membership\" under Manage Membership. Suspensions longer than 2 months require supporting documentation such as a flight itinerary or medical certificate, and the AI agent can assist with this. A $5 per fortnight fee applies during any suspension, and suspensions cannot be backdated so members should request them in advance.",
+        "source": "https://fitnesspassport.my.site.com/faq/s/article/How-can-I-suspend-or-pause-my-membership"
+    },
+    {
+        "question": "Can I suspend part of my membership and leave another member active?",
+        "answer": "Suspensions apply to the entire membership and cannot be applied selectively — if a membership is suspended, all family members on the account are suspended at the same time. A member cannot pause their own membership while keeping a spouse or dependant's membership active.",
+        "source": "https://fitnesspassport.my.site.com/faq/s/article/Can-I-suspend-part-of-my-membership-and-leave-another-member-active"
+    },
+    {
+        "question": "Why was I charged membership fees while my membership was suspended?",
+        "answer": "Fitness Passport bills membership fees in advance, so if a suspension ends within an upcoming billing cycle, a pro-rata charge for that period will be applied automatically to ensure uninterrupted access upon return. Members with questions about specific charges should contact the AI agent to raise a support case.",
+        "source": "https://fitnesspassport.my.site.com/faq/s/article/Why-was-I-charged-membership-fees-while-my-membership-was-suspended"
+    },
+    {
+        "question": "What happens when I leave my employment at my eligible workplace?",
+        "answer": "Members who leave their eligible employer are no longer eligible for Fitness Passport and must notify Fitness Passport in writing as soon as possible, as payments will continue to be charged until they do. Members can get in touch via email at info@fitnesspassport.com.au or through the AI agent, and it's worth checking whether a new employer also participates in the program.",
+        "source": "https://fitnesspassport.my.site.com/faq/s/article/What-happens-when-I-leave-my-employment-at-my-eligible-workplace"
+    },
+    {
+        "question": "What happens if I get a job transfer to another location?",
+        "answer": "Members who relocate due to a job transfer can continue using their Fitness Passport membership as normal if facilities are available in their new location. If there are no facilities in the new area, they should contact the AI agent to log a support case.",
+        "source": "https://fitnesspassport.my.site.com/faq/s/article/What-happens-if-I-get-a-job-transfer-to-another-location"
+    },
+    {
+        "question": "I've changed employer, how can I continue using my Fitness Passport?",
+        "answer": "Members who have changed employers can transfer their Fitness Passport membership by logging in at fitnesspassport.com.au/login, selecting Employer Transfer, and entering their new employee number and preferred package. The new employer will then verify eligibility, and once approved the member receives updated membership details. Existing membership access continues uninterrupted until the transfer is complete.",
+        "source": "https://fitnesspassport.my.site.com/faq/s/article/Ive-changed-employer-how-can-I-continue-using-my-Fitness-Passport"
+    }
+]
